@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/54513e_" target="blank"><img src="https://img.shields.io/twitter/follow/54513e_?logo=twitter&style=for-the-badge" alt="54513e_" /></a> </p>
 
-- 🔭 I’m currently working on **android app**
+- 🔭 I’m currently working on **web system**
 
 - 🌱 I’m currently learning **python, reactnative, azure**
 
